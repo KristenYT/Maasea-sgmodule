@@ -1,12 +1,12 @@
 #!name=Youtube (Music) Enhance
-#!desc=适用于 Youtube & Youtube Music
-#!arguments=屏蔽上传按钮:true,屏蔽选段按钮:true,字幕翻译语言:zh-Hans,歌词翻译语言:zh-Hans,脚本执行引擎:jsc,启用调试模式:false
-#!arguments-desc=- 屏蔽参数：[true, false] \n- 翻译参数：[语言代码, off] \n- 脚本引擎：[auto, jsc, webview]\n\n1. 语言代码遵循 Google Translate Languages Codes, 当填入 off 时关闭翻译\n2. 推荐使用 jsc 引擎，但你仍可以切换成 webview 体验 Surge 新特性\n3. 开启调试模式用于输出更多日志
+#!desc=適用於 Youtube & Youtube Music
+#!arguments=屏蔽上傳按鈕:true,屏蔽選段按鈕:true,字幕翻譯語言:zh-Hans,歌詞翻譯語言:zh-Hans,腳本執行引擎:jsc,啓用調試模式:false
+#!arguments-desc=- 屏蔽參數：[true, false] \n- 翻譯參數：[語言代碼, off] \n- 腳本引擎：[auto, jsc, webview]\n\n1. 語言代碼遵循 Google Translate Languages Codes, 當填入 off 時關閉翻譯\n2. 推薦使用 jsc 引擎，但你仍可以切換成 webview 體驗 Surge 新特性\n3. 開啓調試模式用於輸出更多日誌
 
 # > Note
-# Youtube 画中画和后台播放分别在客户端内关闭
-#   - 设置 -> 通用 -> 画中画
-#   - 设置 -> 后台播放和下载 -> 后台播放
+# Youtube 畫中畫和後台播放分別在客戶端內關閉
+#   - 設置 -> 通用 -> 畫中畫
+#   - 設置 -> 後台播放和下載 -> 後台播放
 
 
 [Rule]
